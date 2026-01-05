@@ -38,7 +38,7 @@ The MAX78000FTHR has an integrated MAX32625PICO ("PICO") debug adapter.  The fir
 
     Note:  If a DAPLINK drive presents itself instead, retry the connection while holding the pushbutton down.  Holding SW5 while connecting the FTHR board will place it in MAINTENANCE mode, allowing its debugger firmware to be reprogrammed.
 
-6. Drag and drop the "max32625_max78000fthr_if_crc_v1.0.2.bin" file onto the MAINTENANCE drive.  This will flash the "PICO" with the updated firmware.
+6. Drag and drop the "max32625_max78000fthr_if_crc_v1.0.3.bin" file onto the MAINTENANCE drive.  This will flash the "PICO" with the updated firmware.
 
     1. <img src="img/MAINTENANCE.jpg" alt="Maintenance Drive Image" width="400"/>
 
