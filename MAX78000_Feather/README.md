@@ -16,7 +16,7 @@ The MAX78000FTHR has an integrated MAX32625PICO ("PICO") debug adapter.  The fir
 
 ### Updating the MAX32625PICO ("PICO") Debug Adapter Firmware
 
-1. Download the "max32625_max78000fthr_if_crc_v1.0.2.bin" file from [this](https://github.com/analogdevicesinc/MaximAI_Documentation/raw/master/MAX78000_Feather/MAX32625PICO_files/max32625_max78000fthr_if_crc_v1.0.2.bin) link.  
+1. Download the "max32625_max78000fthr_if_crc_v1.0.3.bin" file from [this](https://github.com/analogdevicesinc/max32625pico-firmware-images/raw/master/bin/max32625_max78000fthr_if_crc_swd_v1.0.3.bin) link.  
 
 2. Connect the included micro-USB cable to the MAX78000FTHR _without_ connecting the other side of the cable to your host PC yet.
 
